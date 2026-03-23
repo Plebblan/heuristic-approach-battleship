@@ -1,0 +1,10 @@
+pyautogui
+opencv-python
+pillow
+pytesseract
+numpy
+z3-solver
+selenium 
+webdriver-manager
+bs4
+matplotlib
